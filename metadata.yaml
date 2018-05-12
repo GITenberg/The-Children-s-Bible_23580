@@ -1,0 +1,31 @@
+_repo: The-Children-s-Bible_23580
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23580-h/images/bible-cover.jpg
+creator:
+  authors:
+  - agent_name: Sherman, Henry A.
+    birthdate: 1870
+    gutenberg_agent_id: '25918'
+    url: http://www.gutenberg.org/2009/agents/25918
+  - agent_name: Kent, Charles Foster
+    birthdate: 1867
+    deathdate: 1925
+    gutenberg_agent_id: '2806'
+    url: http://www.gutenberg.org/2009/agents/2806
+description: ''
+gutenberg_bookshelf: Children's Religion
+gutenberg_issued: '2007-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23580'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible stories, English'
+- !lcc 'BS'
+title: The Children's Bible
+url: http://www.gutenberg.org/ebooks/23580
